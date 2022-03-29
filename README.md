@@ -1,3 +1,15 @@
+# StyleGAN3 projector
+
+### Test it out on Colab
+
+<a href="https://github.com/ouhenio/stylegan3-projector/blob/main/StyleGAN3%2BInversion.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg"
+      alt="Open in Colab"
+  />
+</a>
+
+---
+
 ## Alias-Free Generative Adversarial Networks (StyleGAN3)<br><sub>Official PyTorch implementation of the NeurIPS 2021 paper</sub>
 
 ![Teaser image](./docs/stylegan3-teaser-1920x1006.png)
