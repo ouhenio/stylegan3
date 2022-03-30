@@ -2,7 +2,7 @@
 
 ### Test it out on Colab
 
-<a href="https://github.com/ouhenio/stylegan3-projector/blob/main/StyleGAN3%2BInversion.ipynb">
+<a href="https://colab.research.google.com/github/ouhenio/stylegan3-projector/blob/main/StyleGAN3%2BInversion.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg"
       alt="Open in Colab"
   />
